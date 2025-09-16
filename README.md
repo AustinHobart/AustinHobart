@@ -1,5 +1,5 @@
 # 🚗🌎✨ Welcome to My Garage & Travel Log! ✨🌎🚗  
-![ME](me.jpg)
+
 
 Hi there! I'm **Austin** — part car builder, part traveler, and a UX designer in the making.  
 I’m currently working on my BS in Human Systems Engineering with a concentration in UX.
