@@ -7,6 +7,12 @@ My goal is to transition into the UX department at my current company and apply 
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
 ## 🔧 Garage Builds  
 - 🏎️ **Custom Car Projects** – I spent over a decade building custom trucks & cars for athletes and shows.  
 - 🔩 **Engineering Mindset** – Everything here is designed with precision, performance, and a little style in mind.  
